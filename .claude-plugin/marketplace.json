@@ -1,0 +1,16 @@
+{
+  "name": "election-org",
+  "owner": {
+    "name": "Election.org"
+  },
+  "metadata": {
+    "description": "Read-only, source-linked civic research from Election.org."
+  },
+  "plugins": [
+    {
+      "name": "election-org",
+      "source": "./",
+      "description": "Find source-linked U.S. candidate, officeholder, campaign-finance, election and local-government records from Election.org."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "election-org": {
+      "type": "http",
+      "url": "https://election.org/api/mcp"
+    }
+  }
+}
