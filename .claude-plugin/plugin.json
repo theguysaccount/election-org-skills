@@ -1,6 +1,6 @@
 {
   "name": "election-org",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Find source-linked U.S. candidate, officeholder, campaign-finance, election and local-government records from Election.org.",
   "author": {
     "name": "Election.org",
@@ -9,8 +9,6 @@
   },
   "homepage": "https://election.org/data/api#chatgpt",
   "repository": "https://github.com/theguysaccount/election-org-skills",
-  "icon": "./assets/election-org.png",
-  "privacyPolicyUrl": "https://election.org/privacy#mcp-plugin",
   "license": "MIT",
   "skills": "./skills/",
   "mcpServers": "./.mcp.json"
